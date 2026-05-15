@@ -1,3 +1,5 @@
+import "./config/config.ts";
+
 import express from 'express';
 
 const app = express();
